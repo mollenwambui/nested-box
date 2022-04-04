@@ -1,0 +1,26 @@
+ .main{
+     padding: 20%;
+ } 
+
+
+.TB1{
+    border: 5px double rgb(177, 19, 156);
+    padding: 50px;
+
+    border-radius: 25px;
+    text-align: center;
+    width: 40%;
+    left: 30%;
+    top: 20%;
+    right: 40%; 
+}
+.TB2{
+    border: 5px solid rgb(228, 38, 187);
+    padding: 50px;
+    
+}
+.TB3{
+    border: 5px solid rgb(16, 43, 161);
+    padding: 50px;
+    border-radius: 10px;
+}
